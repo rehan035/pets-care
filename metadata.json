@@ -1,0 +1,6 @@
+{
+  "name": "Saad Veterinary Clinic | Sargodha, Pakistan",
+  "description": "Compassionate pet healthcare, routine vaccinations, clinical diagnostics, and wellness care in New Satellite Town, Sargodha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
